@@ -6,4 +6,4 @@ Statistics extracted from videos include view count, like count, and comment cou
 
 While this data extraction and transformation uses a particular youtube channel (Ivan Djuric), this can, of course, be applied to any youtube channel by refactoring the chosen youtube channel ID. It can also be updated for new videos and updated statistics on the channel.
 
-This can be used as a data piepline to be used for a sentiment analysis or other machine learning model.
+This can be used as a data pipeline to be used for a sentiment analysis or another machine learning model.
